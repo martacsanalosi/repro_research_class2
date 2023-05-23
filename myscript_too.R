@@ -1,3 +1,3 @@
 #Simulate some data
-plot(rnorm(100,0,1))
+plot(rnorm(10090,0,1))
 
